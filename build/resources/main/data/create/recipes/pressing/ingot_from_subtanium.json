@@ -1,0 +1,15 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "creativemod:oil_fluid",
+      "amount": 144
+    }
+  ],
+  "results": [
+    {
+      "item": "creativemod:maxemirite_ingot"
+    }
+  ],
+  "heatRequirement": "heated"
+}

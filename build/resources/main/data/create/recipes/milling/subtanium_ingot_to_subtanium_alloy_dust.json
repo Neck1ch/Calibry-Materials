@@ -1,0 +1,14 @@
+{
+  "type": "create:milling",
+  "ingredients": [
+    {
+      "item": "calibry_materials:subtanium_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "calibry_materials:subtanium_alloy_dust"
+    }
+  ],
+  "processingTime": 1000
+}

@@ -1,0 +1,24 @@
+{
+  "itemGroup.calibry_materials": "Calibry Materials",
+
+  "item.calibry_materials.subtanium_ingot": "Субтаниумовый Слиток",
+  "item.calibry_materials.subtanium_universe": "Субтаниумовая Вселенная",
+  "item.calibry_materials.subtanium_leggings": "Субтаниумовые Поножи",
+  "item.calibry_materials.subtanium_boots": "Субтаниумовые Ботинки",
+  "item.calibry_materials.subtanium_chestplate": "Субтаниумовый Нагрудник",
+  "item.calibry_materials.subtanium_helmet": "Субтаниумовый Шлем",
+  "item.calibry_materials.subtanium_alloy_dust": "Субтаниумовая Пыль",
+  "item.calibry_materials.subtanium_crushed_ore": "Дроблённая Субтаниумовая Руда",
+  "item.calibry_materials.subtanium_alloy_plate": "Субтаниумовый Лист",
+  "item.calibry_materials.subtanium_nugget": "Субтаниумовый Самородок",
+  "item.calibry_materials.subtanium_fluid_bucket": "Ведро Расплавленного Субтаниума",
+  "item.calibry_materials.subtanium_sword": "Субтаниумовый Меч",
+  "item.calibry_materials.subtanium_pickaxe": "Субтаниумовая Кирка",
+  "item.calibry_materials.subtanium_axe": "Субтаниумовый Топор",
+  "item.calibry_materials.subtanium_hoe": "Субтаниумовая Мотыга",
+  "item.calibry_materials.subtanium_shovel": "Субтаниумовая Лопата",
+
+  "fluid_type.calibry_materials.subtanium_fluid": "Расплавленный Субтаниум",
+
+  "block.calibry_materials.subtanium_block": "§dСубтаниумовый Блок"
+}

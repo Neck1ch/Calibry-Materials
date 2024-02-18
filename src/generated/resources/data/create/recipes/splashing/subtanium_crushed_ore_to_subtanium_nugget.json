@@ -1,0 +1,19 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "calibry_materials:subtanium_crushed_ore"
+    }
+  ],
+  "results": [
+    {
+      "item": "calibry_materials:subtanium_nugget",
+      "count": 9
+    },
+    {
+      "item": "calibry_materials:subtanium_nugget",
+      "count": 4,
+      "chance": 0.1
+    }
+  ]
+}

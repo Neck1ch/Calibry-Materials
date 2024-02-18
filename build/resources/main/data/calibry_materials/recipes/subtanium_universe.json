@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "A": {
+      "item": "minecraft:nether_star"
+    },
+    "B": {
+      "item": "minecraft:dragon_egg"
+    },
+    "C": {
+      "item": "minecraft:echo_shard"
+    },
+    "D": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "pattern": [
+    " A ",
+    "C D",
+    " B "
+  ],
+  "result": {
+    "item": "calibry_materials:subtanium_universe"
+  }
+}

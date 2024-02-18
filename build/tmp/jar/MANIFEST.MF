@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: calibry_materials
+Specification-Vendor: CTM
+Specification-Version: 1
+Implementation-Title: Calibry-Materials-1.19.2-forge
+Implementation-Version: 1.19.2-1.0-forge
+Implementation-Vendor: CTM
+Implementation-Timestamp: 2024-02-18T19:59:56+0300
+

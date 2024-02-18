@@ -1,0 +1,7 @@
+{
+    "variants": {
+      "": {
+        "model": "calibry_materials:block/fluid"
+      }
+    }
+  }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "calibry_materials:item/subtanium_alloy_dust"
+  }
+}

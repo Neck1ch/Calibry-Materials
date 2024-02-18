@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "calibry_materials:subtanium_nugget"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "calibry_materials:subtanium_fluid",
+      "amount": 16
+    }
+  ],
+  "heatRequirement": "superheated"
+}

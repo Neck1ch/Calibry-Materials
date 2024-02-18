@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "calibry_materials:block/subtanium_block"
+  }
+}

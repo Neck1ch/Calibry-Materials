@@ -1,0 +1,15 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "calibry_materials:subtanium_alloy_plate"
+    }
+  ],
+  "results": [
+    {
+      "fluid": "calibry_materials:subtanium_fluid",
+      "amount": 144
+    }
+  ],
+  "heatRequirement": "superheated"
+}

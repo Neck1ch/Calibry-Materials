@@ -1,0 +1,24 @@
+{
+  "itemGroup.calibry_materials": "Calibry Materials",
+
+  "item.calibry_materials.subtanium_ingot": "Subtanium ingot",
+  "item.calibry_materials.subtanium_universe": "Subtanium Universe",
+  "item.calibry_materials.subtanium_leggings": "Subtanium Leggings",
+  "item.calibry_materials.subtanium_boots": "Subtanium Boots",
+  "item.calibry_materials.subtanium_chestplate": "Subtanium Chestplate",
+  "item.calibry_materials.subtanium_helmet": "Subtanium Helmet",
+  "item.calibry_materials.subtanium_alloy_dust": "Subtanium Alloy Dust",
+  "item.calibry_materials.subtanium_crushed_ore": "Subtanium Crushed Ore",
+  "item.calibry_materials.subtanium_alloy_plate": "Subtanium Alloy Plate",
+  "item.calibry_materials.subtanium_nugget": "Subtanium Nugget",
+  "item.calibry_materials.subtanium_fluid_bucket": "Subtanium Bucket",
+  "item.calibry_materials.subtanium_sword": "Subtanium Sword",
+  "item.calibry_materials.subtanium_pickaxe": "Subtanium Pickaxe",
+  "item.calibry_materials.subtanium_axe": "Subtanium Axe",
+  "item.calibry_materials.subtanium_hoe": "Subtanium Hoe",
+  "item.calibry_materials.subtanium_shovel": "Subtanium Shovel",
+
+  "fluid_type.calibry_materials.subtanium_fluid": "Molten Subtanium",
+
+  "block.calibry_materials.subtanium_block": "§dSubtanium Block"
+}

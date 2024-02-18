@@ -1,0 +1,14 @@
+{
+  "type": "create:compacting",
+  "ingredients": [
+    {
+      "fluid": "creativemod:oil_fluid",
+      "amount": 16
+    }
+  ],
+  "results": [
+    {
+      "item": "creativemod:maxemirite_nugget"
+    }
+  ]
+}

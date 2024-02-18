@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AAA",
+      "AAA",
+      "AAA"
+    ],
+    "key": {
+      "A": {
+        "item": "calibry_materials:subtanium_nugget"
+      }
+    },
+    "result": {
+      "item": "calibry_materials:subtanium_ingot"
+    }
+  }

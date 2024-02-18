@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "calibry_materials:subtanium_alloy_dust"
+  },
+  "result": "calibry_materials:subtanium_ingot",
+  "experience": 10,
+  "cookingtime": 600
+}

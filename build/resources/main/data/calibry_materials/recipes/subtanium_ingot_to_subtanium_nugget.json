@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "A"
+    ],
+      "key": {
+        "A": {
+          "item": "calibry_materials:subtanium_ingot"
+        }
+      },
+      "result": {
+        "item": "calibry_materials:subtanium_nugget",
+        "count": 9
+      }
+    }

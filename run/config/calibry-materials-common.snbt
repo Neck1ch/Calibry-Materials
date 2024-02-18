@@ -1,0 +1,76 @@
+# Calibry Materials config file
+
+{
+	Armor: {
+		# Durability Subtanium Boots
+		# Default: -1
+		# Range: -∞ ~ +∞
+		BootsDurability: -1
+		
+		# Protection Subtanium Boots
+		# Default: 30
+		# Range: -∞ ~ +∞
+		BootsProtection: 30
+		
+		# Durability Subtanium Chestplate
+		# Default: -1
+		# Range: -∞ ~ +∞
+		ChestplateDurability: -1
+		
+		# Protection Subtanium Chestplate
+		# Default: 80
+		# Range: -∞ ~ +∞
+		ChestplateProtection: 80
+		
+		# Durability Subtanium Helmet
+		# Default: -1
+		# Range: -∞ ~ +∞
+		HelmetDurability: -1
+		
+		# Protection Subtanium Helmet
+		# Default: 30
+		# Range: -∞ ~ +∞
+		HelmetProtection: 30
+		
+		# Durability Subtanium Leggings
+		# Default: -1
+		# Range: -∞ ~ +∞
+		LeggingsDurability: -1
+		
+		# Protection Subtanium Leggings
+		# Default: 60
+		# Range: -∞ ~ +∞
+		LeggingsProtection: 60
+	}
+	Tools: {
+		# Damage Subtanium Sword
+		# Default: 80
+		# Range: -∞ ~ +∞
+		DamageSword: 80
+		
+		# Damage Subtanium Tools
+		# Default: 12
+		# Range: -∞ ~ +∞
+		DamageTools: 12
+		
+		# Durability Subtanium Tools
+		# Default: -1
+		# Range: -∞ ~ +∞
+		Durability: -1
+		
+		# Enchantment Subtanium Tools
+		# Default: 20
+		# Range: -∞ ~ +∞
+		Enchantment: 20
+		
+		# Level Subtanium Tools
+		# Default: 5
+		# Range: -∞ ~ +∞
+		Level: 5
+		
+		# Speed Subtanium Tools
+		# Default: 4096
+		# Range: -∞ ~ +∞
+		Speed: 4096
+	}
+}

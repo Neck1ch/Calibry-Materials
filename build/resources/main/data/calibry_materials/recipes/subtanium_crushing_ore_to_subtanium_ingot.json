@@ -1,0 +1,9 @@
+{
+    "type": "minecraft:smelting",
+    "ingredient": {
+      "item": "calibry_materials:subtanium_crushed_ore"
+    },
+    "result": "calibry_materials:subtanium_ingot",
+    "experience": 1,
+    "cookingtime": 200
+  }

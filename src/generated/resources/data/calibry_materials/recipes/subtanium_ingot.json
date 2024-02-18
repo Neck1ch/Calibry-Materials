@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": {
+      "item": "calibry_materials:subtanium_universe"
+    },
+    "A": {
+      "tag": "forge:gems/amethyst"
+    },
+    "B": {
+      "tag": "forge:ingots/iron"
+    },
+    "C": {
+      "tag": "forge:ingots/copper"
+    },
+    "D": {
+      "tag": "forge:ingots/netherite"
+    },
+    "E": {
+      "tag": "forge:gems/emerald"
+    },
+    "F": {
+      "tag": "forge:gems/lapis"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "H": {
+      "tag": "forge:gems/diamond"
+    }
+  },
+  "pattern": [
+    "ABC",
+    "DXE",
+    "FGH"
+  ],
+  "result": {
+    "count": 4,
+    "item": "calibry_materials:subtanium_ingot"
+  }
+}

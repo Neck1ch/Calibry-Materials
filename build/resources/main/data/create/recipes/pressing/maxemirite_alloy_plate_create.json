@@ -1,0 +1,13 @@
+{
+  "type": "create:pressing",
+  "ingredients": [
+    {
+      "item": "creativemod:maxemirite_ingot"
+    }
+  ],
+  "results": [
+    {
+      "item": "creativemod:maxemirite_alloy_plate"
+    }
+  ]
+}

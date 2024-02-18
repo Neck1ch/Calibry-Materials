@@ -1,0 +1,38 @@
+modLoader="javafml" #mandatory
+loaderVersion="${loader_version_range}" #mandatory
+license="${mod_license}"
+[[mods]] #mandatory
+modId="calibry_materials" #mandatory
+version="${mod_version}" #mandatory
+displayName="${mod_name}" #mandatory
+authors="${mod_authors}" #optional
+description='''${mod_description}'''
+logoFile="calibry_materials_logo.png"
+
+[[dependencies.calibry_materials]] #optional
+modId="forge" #mandatory
+mandatory=true #mandatory
+versionRange="${forge_version_range}" #mandatory
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.calibry_materials]]
+modId="minecraft"
+mandatory=true
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.calibry_materials]]
+modId="architectury"
+mandatory=true
+versionRange="6.5.90,"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.calibry_materials]]
+modId="ftblibrary"
+mandatory=true
+versionRange="1902.4.1-build.236,"
+ordering="NONE"
+side="BOTH"

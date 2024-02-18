@@ -1,0 +1,38 @@
+modLoader="javafml" #mandatory
+loaderVersion="[43,)" #mandatory
+license="All Rights Reserved"
+[[mods]] #mandatory
+modId="calibry_materials" #mandatory
+version="1.19.2-1.0-forge" #mandatory
+displayName="Calibry Materials" #mandatory
+authors="CTM" #optional
+description='''Calibry Materials'''
+logoFile="calibry_materials_logo.png"
+
+[[dependencies.calibry_materials]] #optional
+modId="forge" #mandatory
+mandatory=true #mandatory
+versionRange="[43,)" #mandatory
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.calibry_materials]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.19.2,1.20)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.calibry_materials]]
+modId="architectury"
+mandatory=true
+versionRange="6.5.90,"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.calibry_materials]]
+modId="ftblibrary"
+mandatory=true
+versionRange="1902.4.1-build.236,"
+ordering="NONE"
+side="BOTH"

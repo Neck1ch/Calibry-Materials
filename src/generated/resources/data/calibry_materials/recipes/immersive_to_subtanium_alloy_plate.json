@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+      "AB",
+      " B"
+    ],
+    "key": {
+     "A": {
+      "item": "immersiveengineering:hammer"
+     },
+     "B": {
+      "item": "calibry_materials:subtanium_ingot"
+     }
+  },
+  "result": {
+   "item": "calibry_materials:subtanium_alloy_plate",
+    "count": 1
+  }
+}
